@@ -41,5 +41,5 @@ body p {
   }
   
   .mouse-cursor-gradient-tracking:hover:before {
-    --size: 100px;
+    --size: 70px;
   }
